@@ -219,3 +219,5 @@ __marimo__/
 
 .env
 .databricks/
+data/
+.DS_Store
